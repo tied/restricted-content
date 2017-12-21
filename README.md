@@ -1,4 +1,6 @@
-# restricted-content
-Restricted Content addon for Atlassian Confluence
+# Restricted Content addon for Atlassian Confluence
+The Restricted Content Addon for Confluence helps you keep your sensitive data secret or share it with designated users or user groups.
 
-Please refer to product document page https://mesilat.com/FAP/RestrictedContent for usage details
+Please check the product homepage: http://mesilat.com/FAP/RestrictedContent
+
+Pending approval for Atlassian Marketplace
